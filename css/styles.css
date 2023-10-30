@@ -604,12 +604,6 @@ progress {
 .img-fluid {
   max-width: 100%;
   height: auto;
-  margin-bottom: 40px;
-}
-
-.img-fluid2{
-   height: auto;
-   max-width: 100%
 }
 
 .img-thumbnail {
